@@ -51,10 +51,53 @@ padding-top: 150px;
     display: flex;
     justify-content: center;
     gap: 100px;
+    padding-top: 50px;
 }
 .flower-description{
     display: flex;
     justify-content: center;
-    gap: 300px;
+    gap: 260px;
     padding-top: 20px;
+    text-decoration: underline;
+    -ms-text-underline-position: under;
+    padding-bottom: 150px;
+}
+.pink-flower{
+    background-color: blueviolet;
+}
+.red-flower{
+    background-color: aquamarine;
+}
+.yellow-flower{
+    background-color: darkgray;
+}
+.hot-deal{
+    background-color: antiquewhite;
+    display: flex;
+}
+.hot-deal-container{
+    padding-top: 200px;
+    padding-left: 250px;
+
+}
+.hot-deal-title{
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+}
+.off{
+    color: red;
+}
+.deal-picture{
+    padding-left: 200px;
+    padding-top: 45px;
+}
+.hot-deal-description{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.btn{
+    padding-left: 170px;
+    padding-top: 25px;
 }
